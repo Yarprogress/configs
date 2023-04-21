@@ -2,6 +2,7 @@
 source $HOME/antigen.zsh
 antigen use oh-my-zsh
 antigen bundle zsh-users/zsh-syntax-highlighting
+antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle endaaman/lxd-completion-zsh
 antigen bundle sudo
 antigen bundle docker
